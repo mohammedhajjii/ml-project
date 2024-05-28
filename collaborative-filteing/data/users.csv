@@ -1,0 +1,785 @@
+UserID,City,Country
+243, minnesota, usa
+254, minnesota, usa
+638, california, usa
+1435, missouri, usa
+2766, texas, usa
+4017, louisiana, usa
+6242, alberta, canada
+6251, hawaii, usa
+6543, missouri, usa
+6563, washington, usa
+6575, washington, usa
+7125, ae, usa
+7158, nebraska, usa
+7283, georgia, usa
+7346, california, usa
+7915, minnesota, usa
+8066, illinois, usa
+8067, maryland, usa
+8245, california, usa
+8253, oklahoma, usa
+8454, massachusetts, usa
+10314, oregon, usa
+10447, illinois, usa
+10560, illinois, usa
+11224, washington, usa
+11676, n/a, n/a
+12538, minnesota, usa
+13273, pennsylvania, usa
+13552, tennessee, usa
+13850, n/a, usa
+14422, minnesota, usa
+14521, rhode island, usa
+15049, texas, usa
+15602, new jersey, usa
+16009, new jersey, usa
+16106, california, usa
+16634, arkansas, usa
+16718, texas, usa
+16795, maryland, usa
+17003, california, usa
+17761, michigan, usa
+17859, virginia, usa
+17950, selangor, malaysia
+19573, california, usa
+20060, maryland, usa
+20180, california, usa
+21011, california, usa
+21014, california, usa
+21404, british columbia, canada
+21576, tennessee, usa
+21659, california, usa
+22074, california, usa
+22252, new york, usa
+22625, new york, usa
+23511, north carolina, usa
+23768, missouri, usa
+23872, oklahoma, usa
+23902, england, united kingdom
+24433, overijssel, netherlands
+25409, california, usa
+25981, new jersey, usa
+26057, nova scotia, canada
+26544, virginia, usa
+27472, utah, usa
+28177, michigan, usa
+28634, michigan, usa
+29209, florida, usa
+29259, , usa
+29526, tennessee, usa
+29855, connecticut, usa
+30276, new jersey, usa
+30487, california, usa
+30511, gelderland, netherlands
+30533, south carolina, usa
+30711, new south wales, australia
+30735, oregon, usa
+30972, alabama, usa
+30994, california, usa
+31315, indiana, usa
+31393, oregon, usa
+31556, california, usa
+31826, missouri, usa
+32148, alberta, canada
+32440, otago, new zealand
+32599, south carolina, usa
+32773, kansas, usa
+33818, manitoba, canada
+34300, ontario, canada
+34588, oregon, usa
+35836, new york, usa
+35857, ohio, usa
+35859, minnesota, usa
+36003, selangor, malaysia
+36606, california, usa
+36807, wisconsin, usa
+36907, ontario, canada
+37208, arizona, usa
+37538, n/a, malaysia
+37644, massachusetts, usa
+37712, ohio, usa
+37950, alberta, canada
+38023, california, usa
+38273, arizona, usa
+39281, new jersey, usa
+39345, florida, usa
+39467, catalunya, spain
+40415, california, usa
+40889, minnesota, usa
+40943, oklahoma, usa
+41084, florida, usa
+41455, ontario, canada
+41781, michigan, usa
+41841, alberta, canada
+43246, ontario, canada
+43481, connecticut, usa
+43619, massachusetts, usa
+43687, california, usa
+43842, ,
+43910, california, usa
+44252, new jersey, usa
+44728, alabama, usa
+44852, texas, usa
+44893, virginia, usa
+46398, texas, usa
+46443, north carolina, usa
+46909, new jersey, usa
+47316, texas, usa
+48025, missouri, usa
+48046, new york, usa
+48494, california, usa
+49225, ohio, usa
+49460, kansas, usa
+50895, new york, usa
+51450, georgia, usa
+51526, california, usa
+51742, new york, usa
+52350, n/a, portugal
+52584, california, usa
+52917, washington, usa
+53174, florida, usa
+53220, california, usa
+53241, new jersey, usa
+53418, washington, usa
+53456, oregon,
+53590, zurich, switzerland
+53614, barreiro, portugal
+54335, connecticut, usa
+55187, california, usa
+55490, south dakota, usa
+55492, illinois, usa
+55493, ontario, canada
+55799, ontario, canada
+55927, minnesota, usa
+56399, surrey, united kingdom
+56447, michigan, usa
+56554, north carolina, usa
+56804, canterbury, new zealand
+56856, california, usa
+56959, new jersey, usa
+57105, georgia, usa
+57398, oregon, usa
+57599, oregon, usa
+59150, british columbia, canada
+59172, ontario, canada
+60050, new york, usa
+60244, texas, usa
+60621, illinois, usa
+61427, california, usa
+62542, wisconsin, usa
+62862, connecticut, usa
+62891, new jersey, usa
+63394, alabama, usa
+63854, ontario, canada
+63956, kansas, usa
+64436, california, usa
+65258, michigan, usa
+65584, oklahoma, usa
+66574, new york, usa
+66680, florida, usa
+66942, sarawak, malaysia
+67591, alberta,
+67840, texas, usa
+68555, michigan, usa
+68984, illinois, usa
+69078, new york, usa
+69156, wisconsin, usa
+69389, nebraska, usa
+69971, north carolina, usa
+70052, ontario, canada
+70594, british columbia, canada
+70666, rhode island, usa
+71752, florida, usa
+73044, ontario, canada
+73651, texas, usa
+73681, setúbal, portugal
+74286, texas, usa
+75149, illinois, usa
+75591, west virginia, usa
+75819, new york, usa
+76151, south dakota, usa
+76223, lisboa, portugal
+76499, new york, usa
+76626, england, united kingdom
+76818, arkansas, usa
+76888, south carolina, usa
+77181, kentucky, usa
+77809, new jersey, usa
+78448, virginia, usa
+78783, virginia, usa
+78834, hawaii, usa
+78973, lisboa, portugal
+79266, florida, usa
+80538, lisboa, portugal
+80810, missouri, usa
+80945, baden-württemberg, germany
+81318, massachusetts, usa
+81492, texas, usa
+81597, kansas, usa
+81682, south carolina,
+81771, california, usa
+81848, illinois, usa
+81977, minnesota, usa
+83287, oklahoma, usa
+83671, ,
+84024, texas, usa
+85426, minnesota, usa
+85526, british columbia, canada
+85757, rhode island, usa
+85993, oregon, usa
+86189, california, usa
+86202, new south wales, australia
+87141, california, usa
+87555, kentucky, usa
+87712, nova scotia, canada
+88122, north carolina, usa
+88229, wyoming, usa
+88693, shanghai, china
+88733, texas, usa
+88793, california, usa
+88937, north carolina, usa
+89602, hawaii, usa
+90417, new hampshire, usa
+90616, michigan, usa
+91058, texas, usa
+91103, wyoming, usa
+91113, illinois, usa
+91184, kuala lumpur, malaysia
+91342, doha, qatar
+92405, nordrhein-westfalen, germany
+92810, michigan, usa
+93047, new hampshire, usa
+93092, alberta, canada
+93453, california, usa
+93629, louisiana, usa
+94347, new jersey, usa
+95173, michigan, usa
+95359, west virginia, usa
+95932, new hampshire, usa
+96357, south carolina, usa
+96440, new york, usa
+96448, new mexico, usa
+96744, cadiz, spain
+97754, new york, usa
+97874, british columbia, canada
+98263, british columbia, canada
+98391, georgia, usa
+98758, alberta, canada
+98787, victoria, australia
+98904, montana, usa
+99720, georgia, usa
+100459, california, usa
+100644, baden-wuerttemberg, germany
+100846, illinois, usa
+100906, washington, usa
+101305, wisconsin, usa
+101606, ontario, canada
+101620, arkansas, usa
+101851, oregon, usa
+101876, kentucky, usa
+102647, california, usa
+102967, washington, usa
+103336, arizona, usa
+104113, missouri, usa
+104636, ohio, usa
+104665, iowa, usa
+105028, federal territory, malaysia
+105058, ontario, canada
+105214, pennsylvania, usa
+105221, california, usa
+105517, alberta, canada
+105937, florida, usa
+105979, california, usa
+106007, california, usa
+106225, illinois, usa
+106369, connecticut, usa
+106768, kentucky, usa
+106849, indiana, usa
+107301, london, united kingdom
+107784, pennsylvania, usa
+108005, wisconsin, usa
+109574, alberta, canada
+109779, alabama, usa
+109901, new south wales, australia
+110912, california, usa
+110934, washington, usa
+110973, west virginia, usa
+111174, texas, usa
+112001, virginia, usa
+112026, washington, usa
+113270, illinois, usa
+113519, california, usa
+114368, maryland, usa
+114444, virginia, usa
+114446, wales, united kingdom
+114544, california, usa
+114868, alberta, canada
+114988, texas, usa
+115003, north carolina, usa
+115435, ohio, usa
+115572, south carolina, usa
+116758, iowa, usa
+116904, texas, usa
+117111, ontario, canada
+119575, british columbia, canada
+120908, massachusetts, usa
+121170, virginia, usa
+121817, new york, usa
+122429, hawaii, usa
+122440, british columbia, canada
+122793, ontario, canada
+123095, maryland, usa
+123544, texas, usa
+123825, british columbia, canada
+123883, kansas, usa
+123981, arizona, usa
+124298, california, usa
+124487, new mexico, usa
+124874, new jersey, usa
+124876, michigan, usa
+125519, california, usa
+125692, new york, usa
+126196, delaware, usa
+126296, huntingdon, cambridgeshire
+126388, north carolina, usa
+126492, illinois, usa
+126604, massachusetts, usa
+126736, missouri, usa
+127049, tennessee, usa
+127359, oregon, usa
+127826, georgia, usa
+128085, north carolina, usa
+128119, kansas, usa
+128325, ohio, usa
+128696, england, united kingdom
+128835, washington, usa
+129084, idaho, usa
+129716, florida, usa
+130571, south carolina, usa
+131046, connecticut, usa
+132375, colorado, usa
+133689, alberta, canada
+133706, western australia, australia
+133747, maryland, usa
+134434, barcelona, spain
+134797, california, usa
+135045, texas, usa
+135149, florida, usa
+135351, south carolina, usa
+135360, new mexico, usa
+135673, reykjavik, iceland
+135831, virginia, usa
+136139, california, usa
+136326, california, usa
+136348, new york, usa
+136382, alberta, canada
+136491, new mexico, usa
+137589, oregon, usa
+137688, new york, usa
+138198, alberta, canada
+138543, texas, usa
+138578, missouri, usa
+138844, manitoba, canada
+138995, west virginia, usa
+139359, florida, usa
+139387, ontario, canada
+139742, ontario, canada
+139913, missouri, usa
+140000, england, united kingdom
+140358, california, usa
+140662, oregon, usa
+141444, massachusetts,
+141491, maryland, usa
+141493, california, usa
+141710, nebraska, usa
+141901, canterbury, new zealand
+142121, hawaii, usa
+142256, alberta, canada
+142524, michigan, usa
+142584, arkansas, usa
+142715, alaska, usa
+143163, california, usa
+143175, south carolina, usa
+143415, washington, usa
+143837, texas, usa
+144038, missouri, usa
+144255, hessen, germany
+144318, iowa, usa
+144478, texas, usa
+144516, oklahoma, usa
+144531, california, usa
+144555, illinois, usa
+145369, nevada, usa
+145449, virginia, usa
+145641, new jersey, usa
+146113, north carolina, usa
+146803, n/a, usa
+147141, oregon, usa
+147451, england, united kingdom
+147847, illinois, usa
+148314, alberta, canada
+148744, wisconsin, usa
+149483, texas, usa
+149908, england, united kingdom
+150661, arizona, usa
+150979, pennsylvania, usa
+152186, ontario, canada
+152579, sabah, malaysia
+152651, new york, usa
+152946, lisbon, portugal
+153513, arkansas, usa
+153662, georgia, usa
+153718, illinois, usa
+153797, oklahoma, usa
+154469, quebec, canada
+155014, new mexico, usa
+155147, washington, usa
+156150, new jersey, usa
+156269, illinois, usa
+156467, massachusetts, usa
+157273, texas, usa
+158226, oslo, norway
+158254, north carolina, usa
+158295, ohio, usa
+158433, massachusetts, usa
+159033, maryland, usa
+159506, oregon, usa
+160401, ohio, usa
+160558, new hampshire, usa
+160571, n/a, france
+160819, florida, usa
+161936, victoria, australia
+162052, virginia, usa
+162376, massachusetts, usa
+162639, washington, usa
+162738, michigan, usa
+163488, ohio, usa
+163570, new brunswick, canada
+163804, georgia, usa
+163973, são paulo, brazil
+164323, british columbia, canada
+164581, ,
+164584, new hampshire, usa
+165183, oklahoma,
+165308, wisconsin, usa
+165319, arizona, usa
+165345, california, usa
+165758, ontario, canada
+166391, pennsylvania, usa
+166596, british columbia, canada
+167471, ontario, canada
+167746, massachusetts, usa
+167812, washington, usa
+168047, connecticut, usa
+168064, new brunswick, canada
+168816, california, usa
+168954, kansas, usa
+169735, minnesota, usa
+170513, pennsylvania, usa
+170634, illinois, usa
+170947, iowa, usa
+171118, ontario, canada
+172512, kentucky, usa
+172742, oregon, usa
+173415, illinois, usa
+173481, texas, usa
+173679, bavaria, germany
+173860, illinois, usa
+174092, england, united kingdom
+174216, ohio, usa
+174304, missouri, usa
+174326, manitoba, canada
+174428, north carolina, usa
+174596, new york, usa
+174726, california, usa
+175052, illinois, usa
+177072, missouri, usa
+177090, missouri, usa
+177375, pennsylvania, usa
+177432, kansas, usa
+177458, ontario, canada
+178199, texas, usa
+178201, ,
+178522, ,
+178667, new jersey, usa
+179019, new york,
+179718, ,
+179734, texas, usa
+179791, new south wales, australia
+180042, ontario, canada
+180651, england, united kingdom
+181176, missouri, usa
+181687, texas, usa
+182459, indiana, usa
+182993, new jersey, usa
+184299, nebraska, usa
+184424, ohio, usa
+184532, iowa, usa
+185233, nevada, usa
+187065, ,
+187145, washington, usa
+187256, california, usa
+187517, new york, usa
+187624, washington, usa
+187863, south carolina, usa
+188010, alberta, canada
+188273, new jersey, usa
+189835, hawaii, usa
+189973, pennsylvania, usa
+190459, texas, usa
+190925, florida, usa
+191716, nova scotia, canada
+192244, new york, usa
+193458, ontario, canada
+193499, florida, usa
+193676, new york, usa
+193778, georgia, usa
+193898, pennsylvania, usa
+194600, ontario, canada
+195904, south carolina, usa
+196053, pennsylvania, usa
+196077, virginia, usa
+196160, alabama, usa
+196466, pennsylvania, usa
+196738, georgia, usa
+197206, virginia, usa
+197364, georgia, usa
+197659, pennsylvania, usa
+198213, virginia, usa
+199515, new mexico, usa
+200226, ontario, canada
+200643, texas, usa
+201290, setúbal, portugal
+201526, british columbia, canada
+201674, pennsylvania, usa
+201684, texas, usa
+201776, new brunswick, canada
+202277, georgia, usa
+203240, missouri, usa
+204457, new jersey, usa
+204591, ontario, canada
+204864, california, usa
+206305, ohio, usa
+206563, connecticut, usa
+206944, california, usa
+207246, kentucky, usa
+207339, maine, usa
+207616, oklahoma,
+207782, texas, usa
+208147, washington, usa
+208406, missouri, usa
+208668, oregon, usa
+208671, california, usa
+208829, new brunswick, canada
+209174, ontario, canada
+209373, california, usa
+209516, suffolk, united kingdom
+209756, california, usa
+210485, california, usa
+210587, michigan, usa
+211344, virginia, usa
+211426, colorado, usa
+212923, minnesota, usa
+213126, texas, usa
+214786, kentucky, usa
+215986, texas, usa
+215988, oregon, usa
+216466, vermont, usa
+216683, california, usa
+217121, england, united kingdom
+217318, new brunswick, canada
+217375, florida, usa
+217468, n/a, singapore
+217740, madrid, spain
+218121, colorado, usa
+218552, texas, usa
+218568, minnesota, usa
+218608, south carolina, usa
+219301, massachusetts, usa
+219546, indiana, usa
+219683, california, usa
+220240, texas, usa
+220688, massachusetts, usa
+221445, oregon, usa
+221948, florida, usa
+222220, texas, usa
+222296, north carolina, usa
+223087, california, usa
+223154, north carolina, usa
+223431, california, usa
+223501, california, usa
+223644, ontario, canada
+224138, california, usa
+224249, illinois, usa
+224349, maryland, usa
+224430, kentucky, usa
+224646, england, united kingdom
+224764, new jersey, usa
+224809, new hampshire, usa
+224997, albay, philippines
+225087, ontario, canada
+225379, nova scotia, canada
+225763, california, usa
+225810, california, usa
+226205, illinois, usa
+226545, arizona, usa
+226553, alaska, usa
+226965, south carolina, usa
+227025, saskatchewan, canada
+227520, california, usa
+227705, connecticut, usa
+228021, michigan, usa
+228764, california, usa
+229011, virginia, usa
+229313, michigan, usa
+229741, california, usa
+230522, colorado, usa
+231210, virginia, usa
+231237, hawaii, us
+232106, colorado, usa
+232131, california, usa
+232945, rhode island, usa
+232964, illinois, usa
+232990, oregon, usa
+233526, florida, usa
+233711, queensland, australia
+234165, massachusetts, usa
+234359, california, usa
+234597, toscana, italy
+234828, alaska, usa
+235105, missouri, usa
+235282, california, usa
+235392, missouri, usa
+235935, new jersey, usa
+236058, california, usa
+236172, virginia, usa
+236283, florida, usa
+236340, victoria, australia
+236757, pennsylvania, usa
+237271, utah, usa
+237534, ontario, canada
+237748, minnesota, usa
+237990, new york, usa
+238065, illinois, usa
+238889, idaho, usa
+239584, california, usa
+239594, vlaams-brabant, belgium
+240035, alabama, usa
+240144, wisconsin, usa
+240219, tennessee, usa
+240567, new jersey, usa
+240700, maryland, usa
+241666, california, usa
+241980, virginia, usa
+242083, new mexico, usa
+242106, virginia, usa
+242143, ontario, canada
+242299, florida, usa
+242646, florida, usa
+243065, michigan, usa
+243294, louisiana, usa
+243360, new york, usa
+243879, california, usa
+243929, illinois,
+243930, seine saint-denis, france
+244277, scotland, united kingdom
+244286, new jersey, usa
+244359, massachusetts, usa
+244420, ,
+244627, tennessee, usa
+244657, illinois, usa
+245295, selangor, malaysia
+245371, nova scotia, canada
+245410, texas, usa
+245645, arizona, usa
+246311, washington, usa
+246507, california, usa
+246513, virginia, usa
+246634, california, usa
+246759, n/a, singapore
+247129, sarawak, malaysia
+247240, maraval, trinidad and tobago
+247447, california, usa
+247752, north carolina, usa
+248477, tennessee, usa
+248718, new york, usa
+249628, texas, usa
+249862, texas, usa
+249894, pennsylvania, usa
+250184, washington, usa
+250925, ontario, canada
+250962, british columbia, canada
+251140, california, usa
+251164, california, usa
+251394, maine, usa
+251422, maryland, usa
+251843, pennsylvania, usa
+251844, lisboa, portugal
+252071, wisconsin, usa
+252695, nebraska, usa
+252820, quebec, canada
+253871, maryland, usa
+254299, oregon, usa
+254465, tennessee, usa
+255489, california, usa
+256843, south carolina, usa
+258270, ap, okinawa
+258534, texas, usa
+258938, california, usa
+259006, michigan, usa
+259035, alberta, canada
+259259, south carolina, usa
+259629, texas, usa
+259901, manitoba, canada
+260183, ontario, canada
+260897, illinois, usa
+261829, ap, usa
+263163, texas, usa
+263325, new brunswick, canada
+263877, british columbia, canada
+264031, michigan, usa
+264321, ontario, canada
+264525, manila, philippines
+264543, massachusetts, usa
+264657, missouri, usa
+265115, california, usa
+265313, north carolina, usa
+265751, california, usa
+265889, ontario, canada
+266056, alabama, usa
+266268, south carolina, usa
+266283, washington, usa
+266865, virginia, usa
+268032, california, usa
+268110, ohio, usa
+268300, nova scotia, canada
+268622, new jersey, usa
+268657, selangor darul ehsan, malaysia
+269566, washington, usa
+270554, new brunswick, canada
+270605, illinois, usa
+270713, ontario, canada
+270801, idaho, usa
+270820, wisconsin, usa
+271176, kentucky, usa
+271195, kentucky, usa
+271448, west virginia, usa
+271558, nevada, usa
+271705, georgia, usa
+272573, california, usa
+273086, illinois, usa
+273113, kansas, usa
+273976, california, usa
+273979, pennsylvania, usa
+274004, london, england
+274301, victoria, australia
+274308, florida, usa
+274393, california, usa
+275154, california, usa
+276050, new york, usa
+276165, nevada, usa
+276231, texas, usa
+276680, new york, usa
+277427, arizona, usa
+278633, utah, usa
